@@ -1,0 +1,37 @@
+clase 3
+
+
+<html lang = "en" ---es que el idioma es en inglés
+
+comentarios <!---    -->
+
+--etiquetas ,atributos
+--listas ordenadas y desordenadas
+--las imagenes tiene que estar dimensionadas por una cuestion de peso y carga
+--span---permite cambiar el tamaño de la fuente,color etc
+---strong,b-bolt-negrita
+
+
+etiquetas <sub> y <sup> subir o bajar texto
+---br  break
+---hr  linea
+  son autocerrantes
+
+identar se llama a ordenar el código
+
+
+layout de pagina---es la distribución de una pagína,su estructura
+
+contenedores:
+--buena practica --lapiz y papel para definir el layout
+
+---div--contenedor separador
+
+
+--creo un div con una lista ul
+otro div con h1,h2,p e imagen
+
+---en bloque o comportamiento en bloque --es que ocupa todo el ancho,div por ej es en bloque
+--en linea --ej- fotos,links(a href)
+
+--display

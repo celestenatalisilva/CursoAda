@@ -1,0 +1,9 @@
+FALTA de clase 4
+
+-----------------------------
+ son 4 selectores para buscar
+los class buscar definicion 
+display tambien
+posicionar cajas 
+para acomodar hay que usar distintos divs------
+-----------------------------

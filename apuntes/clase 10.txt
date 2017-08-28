@@ -1,0 +1,42 @@
+clase 10
+
+
+creo una lista con una imagen y que quede tipo menu
+
+margin y padding --dentro de una caja son los bordes contenedores 
+
+los links son en linea
+
+centrado horizontal
+
+linea si o si una condicion---estar contenidos--siempre tiene que tener un padre,contenedor
+text aling lo alinea
+esta propiedad va al padre
+
+
+bloque siempre modifico su widht
+margin o auto
+al bloque a si mismo
+
+ float--- con el float left se borra visusalmente el padre en un elemento de bloque
+ cuando uso float uso margin z padding para centrar por ej
+
+con la propiedad display aprendimos a modificar su comportamiento
+
+para ordenar en linea lo hace el padre
+
+solo los de bloque se acomodan por margenes
+
+con overflow hidden 
+
+
+
+
+
+
+
+
+
+
+
+

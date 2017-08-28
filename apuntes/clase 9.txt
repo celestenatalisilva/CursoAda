@@ -1,0 +1,31 @@
+clase 9
+
+para el ejercicio formo divs
+
+hay tres divs que tienen un 
+
+
+    t
+
+l       r
+    
+    b
+
+margin 0005 px
+
+con float left no hay inconveniente con los margenes como con display in line bock
+hay que trabajar con cazpas por que es mas facil controlar el comportamiento
+los divs centrales no es ideal separados
+
+la flotacion es izq o derecha
+
+todos los ddivs tienen que tener in line block
+
+hacer la pantalla de colores de television
+siempre un un div con un id que se llame container
+
+todo con float a la izq 
+
+---el div del medio va al final
+
+left left right
