@@ -7,7 +7,8 @@ es un archivo que se abre en git hub, un documento
 donde mediante unos codigos escribis
 tiene una extencion tipo md
 
-a un proyecto que le hago un read me sirve para documentar y mostrar los pasos iniciales
+a un proyecto que le hago un read me sirve para documentar
+ y mostrar los pasos iniciales
 
 en cheatsheet muestra el codigo
 
@@ -39,9 +40,9 @@ ej
 
 hay tres tipos de botones 
 
-submit  envia a mi mismo form
-reset   limpia
-button  no hace nada,es para que con javascript le de utilidad
+--submit  envia a mi mismo form
+--reset   limpia
+--button  no hace nada,es para que con javascript le de utilidad
 
 si a un boton no le pongo nada por defecto el type es submit
 

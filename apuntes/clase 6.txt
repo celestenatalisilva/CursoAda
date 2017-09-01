@@ -5,8 +5,10 @@ lista oredenada ol significa order list
 --li--significa-- list
 
 concepto de lista anidada
+---------------------------
 
---hacer un archivo que se llame listas html y crear el sub menu con tres items en cada uno
+--hacer un archivo que se llame listas html 
+y crear el sub menu con tres items en cada uno
 ---hacer
   un h1 menu de sublime text
   un h2 que diga lenguajes de programacion 
@@ -21,10 +23,14 @@ flex box--propiedades del padre
 jquery
 nodejs
 
-las etiquetas a tienen obligatoriamente un atributo href que hace referencia a un lugar
+las etiquetas a tienen obligatoriamente un atributo href
+ que hace referencia a un lugar
 tenemos tres tipos 
-un #
+
+un # que recarga en el mismo lugar
+
 una ruta absoluta ej www.google.com
+
 y una ruta relativa ej foto.jpg
 
 
@@ -54,17 +60,18 @@ y al final un
 
 paginas utiles
 
-w3 schools.com
-mdn 
-si pones en el buscador w3 validator podes
+--w3 schools.com
+--mdn 
+--si pones en el buscador w3 validator podes
  seleccionar un archivo para que busque los errores
-en el codigo
+ en el codigo
 
 el works si quiero lo mando todo al repo
 tarea---ordeno todos los archivos y subirlos a git
 
 
 archivos md mark down
+----------------------
 
 es un archivo de presentacion
 
