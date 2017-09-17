@@ -67,7 +67,7 @@ listo subido al repo remoto
 
 
 ----el # me recarga la pagina donde estoy en html
----en el  href q si queiero que me lleve a una pagina pongo su ruta o sino #
+---en el  href q si quiero que me lleve a una pagina pongo su ruta o sino #
 ---target --se puede omitir,con _blank cambia pestaña
 ---img src---ruta de imagen
 --alt   descripcion de la imagen--es alternativo

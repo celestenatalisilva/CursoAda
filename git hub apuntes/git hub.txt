@@ -26,3 +26,6 @@ git commit -m  ---con un comentario de referencia
 git push -u origin master
 
 listo subido al repo remoto
+
+
+con git log veo los commits,salgo con ctrl c 

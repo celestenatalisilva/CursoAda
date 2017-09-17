@@ -22,7 +22,7 @@ de esta manera es mas ordenado ya que me muestra todas las carpetas de ese proye
 formularios
 -----------
 
-usamos etiqeuta <form></form>
+usamos etiqueta <form></form>
 sus atributos son por ej
 action,metod="get">
 
