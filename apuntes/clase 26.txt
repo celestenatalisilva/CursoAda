@@ -1,0 +1,134 @@
+clase 26
+
+se revisó problema de conejos
+
+x= xn-1 + xn-2  sucesion de finonachi arranca en 1
+
+
+siempre que tengamos una sucesion que va para atras empezamos en posicion 0
+
+son condiciones iniciales
+
+n --es el concepto de indice,siempre voy a operar con los indices
+x ---es el valor
+
+
+
+mes xn-1  xn-2    +    parejas de conejos
+1    1     0      1
+2    1     0      1
+3    1     1      2
+4    2     1      3
+5
+6
+7
+8
+9
+10
+11
+12
+
+
+piedra papel tijera 
+
+
+j1
+j2
+
+
+si (j1==j2) {
+
+empate
+
+] sino { si(j1>j2) {
+
+gano j1
+
+
+
+de tres
+
+j1>j2>j3 ---gana j1
+j2>j1>j3 ---gana j2
+
+
+
+
+a b c  piedra papel tijera
+
+j1     j2     j3
+
+a      b      c         nw  no wind
+a      c      b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+si (j1==j2==j3  or  j1=j2!j3) {
+
+no winds
+    } sino  }  si ((j2==j3) y j1>j1 ) {
+
+gana j1
+             } si (j1>j2) {gana j1 }
+              sino { GANO J2 Y J3}
+              sino      
+
+
+
+tabla and multi   y        or    suma
+a  b   y              a    b    0
+0  0   0              0    0    0
+0  1   0              0    1    1
+1  0   0              1    0    1
+1  1   1              1    1    1
+
+
+funciones logicas and y or 
+and
+or
+!=
+==
+
+
+
+usuario de login
+
+
+tiene dos variables 
+var nombre
+var contrasenia
+
+-------------no usar ñ
+
+
+
+cualquier cosa que este entre comillas es un a cadena de caracteres "1234" y 1234 sin comillas es numeros
+ y no lo tomaria
+
+el while
+mientras que
+
+
+IGUAL doble es decomparacion sino es de asignacion
+
+
+
+
+
+
+
+
